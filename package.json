@@ -13,8 +13,8 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript",
-        "path": "./snippets.json"
+        "language": "html",
+        "path": "./snippets/snippets.json"
       }
     ]
   }
