@@ -1,0 +1,21 @@
+{
+  "name": "specter-snippets",
+  "displayName": "Specter Snippets",
+  "description": "Code snippet for Specter.css",
+  "version": "0.0.1",
+  "publisher": "MartinKukli",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets.json"
+      }
+    ]
+  }
+}
