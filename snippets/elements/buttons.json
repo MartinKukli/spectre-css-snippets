@@ -1,7 +1,72 @@
 {
   "btn": {
     "prefix": "spectre:btn",
-    "body": ["table"],
+    "body": ["btn"],
     "description": "Spectre button"
+  },
+  "btn-primary": {
+    "prefix": "spectre:btn-primary",
+    "body": ["btn-primary"],
+    "description": "Spectre button primary"
+  },
+  "btn-link": {
+    "prefix": "spectre:btn-link",
+    "body": ["btn-link"],
+    "description": "Spectre button link"
+  },
+  "btn-success": {
+    "prefix": "spectre:btn-success",
+    "body": ["btn-success"],
+    "description": "Spectre button success"
+  },
+  "btn-error": {
+    "prefix": "spectre:btn-error",
+    "body": ["btn-error"],
+    "description": "Spectre button error"
+  },
+  "btn-lg": {
+    "prefix": "spectre:btn-lg",
+    "body": ["btn-lg"],
+    "description": "Spectre button large"
+  },
+  "btn-sm": {
+    "prefix": "spectre:btn-sm",
+    "body": ["btn-sm"],
+    "description": "Spectre button small"
+  },
+  "btn-block": {
+    "prefix": "spectre:btn-block",
+    "body": ["btn-block"],
+    "description": "Spectre button block"
+  },
+  "btn-action": {
+    "prefix": "spectre:btn-action",
+    "body": ["btn-action"],
+    "description": "Spectre button action"
+  },
+  "btn-circle": {
+    "prefix": "spectre:btn-circle",
+    "body": ["s-circle"],
+    "description": "Spectre button s-circle"
+  },
+  "btn-disabled": {
+    "prefix": "spectre:btn-disabled",
+    "body": ["disabled"],
+    "description": "Spectre button disabled"
+  },
+  "btn-loading": {
+    "prefix": "spectre:loading",
+    "body": ["loading"],
+    "description": "Spectre button error"
+  },
+  "btn-group": {
+    "prefix": "spectre:btn-group",
+    "body": ["btn-group"],
+    "description": "Spectre button group"
+  },
+  "btn-group-block": {
+    "prefix": "spectre:btn-group-block",
+    "body": ["btn-error"],
+    "description": "Spectre button groupd block"
   }
 }
