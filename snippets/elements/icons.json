@@ -1,0 +1,7 @@
+{
+  "icon": {
+    "prefix": "spectre:icon",
+    "body": ["icon"],
+    "description": "Spectre icon"
+  }
+}

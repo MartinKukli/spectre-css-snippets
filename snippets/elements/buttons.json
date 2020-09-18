@@ -1,0 +1,7 @@
+{
+  "btn": {
+    "prefix": "spectre:btn",
+    "body": ["table"],
+    "description": "Spectre button"
+  }
+}

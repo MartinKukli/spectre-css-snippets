@@ -30,11 +30,11 @@
       },
       {
         "language": "html",
-        "path": "./snippets/elements/images.json"
+        "path": "./snippets/elements/labels.json"
       },
       {
         "language": "html",
-        "path": "./snippets/elements/labels.json"
+        "path": "./snippets/elements/media.json"
       },
       {
         "language": "html",

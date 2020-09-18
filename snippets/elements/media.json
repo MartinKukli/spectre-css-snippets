@@ -1,0 +1,32 @@
+{
+  "image": {
+    "prefix": "spectre:image",
+    "body": ["image-responsive"],
+    "description": "Spectre image"
+  },
+  "image-fit-contain": {
+    "prefix": "spectre:image-contain",
+    "body": ["img-fit-contain"],
+    "description": "Spectre image"
+  },
+  "image-fit-cover": {
+    "prefix": "spectre:image-cover",
+    "body": ["img-fit-cover"],
+    "description": "Spectre image"
+  },
+  "figure": {
+    "prefix": "spectre:figure",
+    "body": ["figure"],
+    "description": "Spectre figure"
+  },
+  "figure-caption": {
+    "prefix": "spectre:figure-caption",
+    "body": ["figure-caption"],
+    "description": "Spectre image"
+  },
+  "video": {
+    "prefix": "spectre:video",
+    "body": ["video-responsive"],
+    "description": "Spectre video"
+  }
+}

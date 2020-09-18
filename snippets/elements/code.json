@@ -1,0 +1,7 @@
+{
+  "code": {
+    "prefix": "spectre:code",
+    "body": ["table"],
+    "description": "Spectre code"
+  }
+}

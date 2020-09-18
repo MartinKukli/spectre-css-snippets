@@ -1,0 +1,7 @@
+{
+  "label": {
+    "prefix": "spectre:label",
+    "body": ["label"],
+    "description": "Spectre label"
+  }
+}
