@@ -14,7 +14,31 @@
     "snippets": [
       {
         "language": "html",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets/elements/button.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/code.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/forms.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/icons.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/images.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/labels.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/tables.json"
       }
     ]
   }
