@@ -2,7 +2,7 @@
 	"name": "spectre-css-snippets",
 	"displayName": "Spectre.css snippets",
 	"description": "Snippets for Spectre.css elements, layout, components and utilies",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
