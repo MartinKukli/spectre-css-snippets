@@ -1,22 +1,30 @@
 {
-  "table": {
-    "prefix": "spectre:table",
-    "body": ["table"],
-    "description": "Spectre table"
-  },
-  "table-stripe": {
-    "prefix": "spectre:table-striped",
-    "body": ["table-striped"],
-    "description": "Spectre table-striped"
-  },
-  "table-hover": {
-    "prefix": "spectre:table-hover",
-    "body": ["table-hover"],
-    "description": "Spectre table-hover"
-  },
-  "table-scroll": {
-    "prefix": "spectre:table-scroll",
-    "body": ["table-scroll"],
-    "description": "Spectre table-hover"
-  }
+	"table": {
+		"prefix": "spectre:table",
+		"body": [
+			"table"
+		],
+		"description": ""
+	},
+	"table-stripe": {
+		"prefix": "spectre:table-striped",
+		"body": [
+			"table-striped"
+		],
+		"description": ""
+	},
+	"table-hover": {
+		"prefix": "spectre:table-hover",
+		"body": [
+			"table-hover"
+		],
+		"description": ""
+	},
+	"table-scroll": {
+		"prefix": "spectre:table-scroll",
+		"body": [
+			"table-scroll"
+		],
+		"description": ""
+	}
 }

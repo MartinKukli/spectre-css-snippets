@@ -1,3 +1,7 @@
-# Spectre.css Snippets
+# spectre-css-snippets README
 
-Code snippets for [Specter.css](https://picturepan2.github.io/spectre/)
+VSCode extension for Spectre.css.
+
+### 0.1.0
+
+Initial release of Spectre.css Snippets
