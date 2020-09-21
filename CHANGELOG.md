@@ -6,6 +6,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.2.0] - 20-09-20
+
+### Added
+
+- Spectre.css, Layout, Flexbox grid
+- Spectre.css, Layout, Hero
+- Spectre.css, Layout, Navbar
+- Spectre.css, Layout, Resonsive
+
+### Changed
+
+- README.MD
+
 ## [0.1.1] - 2020-09-20
 
 ### Changed

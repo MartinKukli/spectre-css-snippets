@@ -8,17 +8,12 @@ Get list of Spectre.css classes by typing 'spectre:'.
 
 ## Currently supported
 
-- Tables
-- Buttons
-- Forms
-- Icon
-- Labels
-- Code
-- Media
+- Elements
+- Layout
 
 ## Planned features
 
-- Snippets for Layout, Components, Utilities and Experimental
+- Snippets for Components, Utilities and Experimental
 - Premade html blocks
 
 ## Release Notes
@@ -30,3 +25,7 @@ Initial release of Spectre.css Snippets
 ### 0.1.1
 
 Updated README.md
+
+### 0.2.0
+
+Added support for Layout

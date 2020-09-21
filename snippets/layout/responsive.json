@@ -1,0 +1,77 @@
+{
+  "grid-xs": {
+    "prefix": "spectre:grid-xs",
+    "body": ["grid-xs"],
+    "description": ""
+  },
+  "grid-sm": {
+    "prefix": "spectre:grid-sm",
+    "body": ["grid-sm"],
+    "description": ""
+  },
+  "grid-md": {
+    "prefix": "spectre:grid-md",
+    "body": ["grid-md"],
+    "description": ""
+  },
+  "grid-lg": {
+    "prefix": "spectre:grid-lg",
+    "body": ["grid-lg"],
+    "description": ""
+  },
+  "grid-xl": {
+    "prefix": "spectre:grid-xl",
+    "body": ["grid-xl"],
+    "description": ""
+  },
+  "hide-xs": {
+    "prefix": "spectre:hide-xs",
+    "body": ["hide-xs"],
+    "description": ""
+  },
+  "hide-sm": {
+    "prefix": "spectre:hide-sm",
+    "body": ["hide-sm"],
+    "description": ""
+  },
+  "hide-md": {
+    "prefix": "spectre:hide-md",
+    "body": ["hide-md"],
+    "description": ""
+  },
+  "hide-lg": {
+    "prefix": "spectre:hide-lg",
+    "body": ["hide-lg"],
+    "description": ""
+  },
+  "hide-xl": {
+    "prefix": "spectre:hide-xl",
+    "body": ["hide-xl"],
+    "description": ""
+  },
+  "show-xs": {
+    "prefix": "spectre:show-xs",
+    "body": ["show-xs"],
+    "description": ""
+  },
+  "show-sm": {
+    "prefix": "spectre:show-sm",
+    "body": ["show-sm"],
+    "description": ""
+  },
+  "show-md": {
+    "prefix": "spectre:show-md",
+    "body": ["show-md"],
+    "description": ""
+  },
+  "show-lg": {
+    "prefix": "spectre:show-lg",
+    "body": ["show-lg"],
+    "description": ""
+  },
+  "show-xl": {
+    "prefix": "spectre:show-xl",
+    "body": ["show-xl"],
+    "description": ""
+  }
+}
