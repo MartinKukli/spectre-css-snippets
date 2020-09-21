@@ -1,0 +1,77 @@
+{
+  "container": {
+    "prefix": "spectre:container",
+    "body": ["container"],
+    "description": ""
+  },
+  "columns": {
+    "prefix": "spectre:columns",
+    "body": ["columns"],
+    "description": ""
+  },
+  "column": {
+    "prefix": "spectre:column",
+    "body": ["column"],
+    "description": ""
+  },
+  "col-*": {
+    "prefix": "spectre:col",
+    "body": ["col-*"],
+    "description": ""
+  },
+  "col-gapless": {
+    "prefix": "spectre:col-gapless",
+    "body": ["col-gapless"],
+    "description": ""
+  },
+  "col-oneline": {
+    "prefix": "spectre:col-oneline",
+    "body": ["col-oneline"],
+    "description": ""
+  },
+  "col-mx-auto": {
+    "prefix": "spectre:col-mx-auto",
+    "body": ["col-mx-auto"],
+    "description": ""
+  },
+  "col-ml-auto": {
+    "prefix": "spectre:col-ml-auto",
+    "body": ["col-ml-auto"],
+    "description": ""
+  },
+  "col-mr-auto": {
+    "prefix": "spectre:col-mr-auto",
+    "body": ["col-mr-auto"],
+    "description": ""
+  },
+  "col-auto": {
+    "prefix": "spectre:col-auto",
+    "body": ["col-auto"],
+    "description": ""
+  },
+  "col-xl-auto": {
+    "prefix": "spectre:col-xl-auto",
+    "body": ["col-xl-auto"],
+    "description": ""
+  },
+  "col-lg-auto": {
+    "prefix": "spectre:col-lg-auto",
+    "body": ["col-lg-auto"],
+    "description": ""
+  },
+  "col-md-auto": {
+    "prefix": "spectre:col-md-auto",
+    "body": ["col-md-auto"],
+    "description": ""
+  },
+  "col-sm-auto": {
+    "prefix": "spectre:col-sm-auto",
+    "body": ["col-sm-auto"],
+    "description": ""
+  },
+  "col-xs-auto": {
+    "prefix": "spectre:col-xs-auto",
+    "body": ["col-xs-auto"],
+    "description": ""
+  }
+}
