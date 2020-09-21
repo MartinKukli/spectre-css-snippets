@@ -15,9 +15,7 @@ Get list of Spectre.css classes by typing 'spectre:'.
 
 ## Planned features
 
-- Snippets to all Components
-- Snippets for Spectre.css icons
-- Snippets for Experimental
+- Snippets for Layout, Components, Utilities and Experimental
 - Premade html blocks
 
 ## Release Notes
