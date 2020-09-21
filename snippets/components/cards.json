@@ -1,0 +1,27 @@
+{
+  "card": {
+    "prefix": "spectre:card",
+    "body": ["card"],
+    "description": ""
+  },
+  "card-image": {
+    "prefix": "spectre:image",
+    "body": ["card-image"],
+    "description": ""
+  },
+  "card-header": {
+    "prefix": "spectre:card-header",
+    "body": ["card-header"],
+    "description": ""
+  },
+  "card-body": {
+    "prefix": "spectre:card-body",
+    "body": ["card-body"],
+    "description": ""
+  },
+  "card-footer": {
+    "prefix": "spectre:card-footer",
+    "body": ["card-footer"],
+    "description": ""
+  }
+}

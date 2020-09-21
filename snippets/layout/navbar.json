@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "prefix": "spectre:navbar",
+    "body": ["navbar"],
+    "description": ""
+  },
+  "navbar-section": {
+    "prefix": "spectre:navbar-section",
+    "body": ["navbar-section"],
+    "description": ""
+  },
+  "navbar-brand": {
+    "prefix": "spectre:navbar-brand",
+    "body": ["navbar-brand"],
+    "description": ""
+  }
+}

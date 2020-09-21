@@ -1,0 +1,7 @@
+{
+  "badge": {
+    "prefix": "spectre:badge",
+    "body": ["badge"],
+    "description": ""
+  }
+}

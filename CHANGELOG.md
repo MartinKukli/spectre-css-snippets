@@ -6,25 +6,46 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [0.1.1] - 2020-09-20
-
-### Changed
-
-- Updated README
-
-## [0.1.0] - 2020-09-20
+## [0.0.4] - 2020-09-20
 
 ### Added
 
-- Spectre.css, Elements, Buttons
-- Spectre.css, Elements, Code
-- Spectre.css, Elements, Forms
-- Spectre.css, Elements, Icons
-- Spectre.css, Elements, Labels
-- Spectre.css, Elements, Media
-- Spectre.css, Elements, Tables
+- Components snippets json files
 
 ### Changed
 
-- package.json for publishing to Visual Studio Marketplace
-- update README.md
+- Updated README Features section
+
+## [0.0.3] - 2020-09-20
+
+### Changed
+
+- Fixed "c-not-allowed" body
+- Fixed "s-circle" body
+
+## [0.0.2] - 2020-09-20
+
+### Added
+
+- Spectre.css Utilities
+
+### Changed
+
+- Updated README.md
+- Updated package.json
+
+### Removed
+
+- Removed btn-round
+- Removed btn-loading
+
+## [0.0.1] - 2020-09-20
+
+### Added
+
+- Elements
+- Layout
+
+### Changed
+
+- Updated README.md

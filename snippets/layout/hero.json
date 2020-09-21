@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "prefix": "spectre:hero",
+    "body": ["hero"],
+    "description": ""
+  },
+  "hero-body": {
+    "prefix": "spectre:hero-body",
+    "body": ["hero-body"],
+    "description": ""
+  },
+  "hero-sm": {
+    "prefix": "spectre:hero-sm",
+    "body": ["hero-sm"],
+    "description": ""
+  },
+  "hero-lg": {
+    "prefix": "spectre:hero-lg",
+    "body": ["hero-lg"],
+    "description": ""
+  }
+}

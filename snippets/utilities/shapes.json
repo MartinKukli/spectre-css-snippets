@@ -1,0 +1,12 @@
+{
+  "s-rounded": {
+    "prefix": "spectre:s-rounded",
+    "body": ["s-rounded"],
+    "description": ""
+  },
+  "s-circle": {
+    "prefix": "spectre:s-circle",
+    "body": ["s-circle"],
+    "description": ""
+  }
+}

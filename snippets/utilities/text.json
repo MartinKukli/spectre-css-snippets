@@ -1,0 +1,87 @@
+{
+  "text-left": {
+    "prefix": "spectre:text-left",
+    "body": ["text-left"],
+    "description": ""
+  },
+  "text-center": {
+    "prefix": "spectre:text-center",
+    "body": ["text-center"],
+    "description": ""
+  },
+  "text-right": {
+    "prefix": "spectre:text-right",
+    "body": ["text-right"],
+    "description": ""
+  },
+  "text-justify": {
+    "prefix": "spectre:text-justify",
+    "body": ["text-justify"],
+    "description": ""
+  },
+  "text-lowercase": {
+    "prefix": "spectre:text-lowercase",
+    "body": ["text-lowercase"],
+    "description": ""
+  },
+  "text-uppercase": {
+    "prefix": "spectre:text-uppercase",
+    "body": ["text-uppercase"],
+    "description": ""
+  },
+  "text-capitalize": {
+    "prefix": "spectre:text-capitalize",
+    "body": ["text-capitalize"],
+    "description": ""
+  },
+  "text-normal": {
+    "prefix": "spectre:text-normal",
+    "body": ["text-normal"],
+    "description": ""
+  },
+  "text-bold": {
+    "prefix": "spectre:text-bold",
+    "body": ["text-bold"],
+    "description": ""
+  },
+  "text-italic": {
+    "prefix": "spectre:text-italic",
+    "body": ["text-italic"],
+    "description": ""
+  },
+  "text-muted": {
+    "prefix": "spectre:text-muted",
+    "body": ["text-muted"],
+    "description": ""
+  },
+  "text-large": {
+    "prefix": "spectre:text-large",
+    "body": ["text-large"],
+    "description": ""
+  },
+  "text-small": {
+    "prefix": "spectre:text-small",
+    "body": ["text-small"],
+    "description": ""
+  },
+  "text-tiny": {
+    "prefix": "spectre:text-tiny",
+    "body": ["text-tiny"],
+    "description": ""
+  },
+  "text-ellipsis": {
+    "prefix": "spectre:text-ellipsis",
+    "body": ["text-ellipsis"],
+    "description": ""
+  },
+  "text-clip": {
+    "prefix": "spectre:text-clip",
+    "body": ["text-clip"],
+    "description": ""
+  },
+  "text-break": {
+    "prefix": "spectre:text-break",
+    "body": ["text-break"],
+    "description": ""
+  }
+}
