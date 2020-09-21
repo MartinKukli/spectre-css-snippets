@@ -1,0 +1,32 @@
+{
+  "c-hand": {
+    "prefix": "spectre:c-hand",
+    "body": ["c-hand"],
+    "description": ""
+  },
+  "c-move": {
+    "prefix": "spectre:c-move",
+    "body": ["c-move"],
+    "description": ""
+  },
+  "c-zoom-in": {
+    "prefix": "spectre:c-zoom-in",
+    "body": ["c-zoom-in"],
+    "description": ""
+  },
+  "c-zoom-out": {
+    "prefix": "spectre:c-zoom-out",
+    "body": ["c-zoom-out"],
+    "description": ""
+  },
+  "c-not-allowed": {
+    "prefix": "spectre:c-not-allowed",
+    "body": ["text-"],
+    "description": ""
+  },
+  "c-auto": {
+    "prefix": "spectre:c-auto",
+    "body": ["c-auto"],
+    "description": ""
+  }
+}

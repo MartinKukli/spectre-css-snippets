@@ -10,10 +10,11 @@ Get list of Spectre.css classes by typing 'spectre:'.
 
 - Elements
 - Layout
+- Utilities
 
 ## Planned features
 
-- Snippets for Components, Utilities and Experimental
+- Snippets for Components and Experimental
 - Premade html blocks
 
 ## Release Notes

@@ -2,7 +2,7 @@
   "name": "spectre-css-snippets",
   "displayName": "Spectre.css snippets",
   "description": "Snippets for Spectre.css elements, layout, components and utilies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -50,6 +50,54 @@
       {
         "language": "html",
         "path": "./snippets/elements/tables.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/layout/flexboxgrid.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/layout/hero.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/layout/navbar.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/layout/responsive.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/colors.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/cursor.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/display.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/divider.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/loading.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/position.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/shapes.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/utilities/text.json"
       }
     ]
   }
