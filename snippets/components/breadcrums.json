@@ -1,0 +1,12 @@
+{
+  "breadcrumb": {
+    "prefix": "spectre:breadcrumb",
+    "body": ["breadcrumb"],
+    "description": ""
+  },
+  "breadcrumb-item": {
+    "prefix": "spectre:breadcrumb-item",
+    "body": ["breadcrumb-item"],
+    "description": ""
+  }
+}

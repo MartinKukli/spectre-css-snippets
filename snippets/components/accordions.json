@@ -1,0 +1,27 @@
+{
+  "accordion": {
+    "prefix": "spectre:accordion",
+    "body": ["accordion"],
+    "description": ""
+  },
+  "accordion-checkbox": {
+    "prefix": "spectre:accordion-checkbox",
+    "body": ["accordion-checkbox"],
+    "description": ""
+  },
+  "accordion-radio": {
+    "prefix": "spectre:accordion-radio",
+    "body": ["accordion-radio"],
+    "description": ""
+  },
+  "accordion-header": {
+    "prefix": "spectre:accordion-header",
+    "body": ["accordion-header"],
+    "description": ""
+  },
+  "accordion-body": {
+    "prefix": "spectre:accordion-body",
+    "body": ["accordion-body"],
+    "description": ""
+  }
+}

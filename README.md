@@ -8,13 +8,10 @@ Get list of Spectre.css classes by typing 'spectre:'.
 
 ## Currently supported
 
-- Tables
-- Buttons
-- Forms
-- Icon
-- Labels
-- Code
-- Media
+- Components (Accordions to Empty State)
+- Elements
+- Layout
+- Utilities
 
 ## Planned features
 

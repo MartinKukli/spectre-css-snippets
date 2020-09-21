@@ -1,0 +1,122 @@
+{
+  "clearfix": {
+    "prefix": "spectre:clearfix",
+    "body": ["clearfix"],
+    "description": ""
+  },
+  "float-left": {
+    "prefix": "spectre:float-left",
+    "body": ["float-left"],
+    "description": ""
+  },
+  "float-right": {
+    "prefix": "spectre:float-right",
+    "body": ["float-right"],
+    "description": ""
+  },
+  "p-relative": {
+    "prefix": "spectre:p-relative",
+    "body": ["p-relative"],
+    "description": ""
+  },
+  "p-absolute": {
+    "prefix": "spectre:p-absolute",
+    "body": ["p-absolute"],
+    "description": ""
+  },
+  "p-fixed": {
+    "prefix": "spectre:p-fixed",
+    "body": ["p-fixed"],
+    "description": ""
+  },
+  "p-sticky": {
+    "prefix": "spectre:p-sticky",
+    "body": ["p-sticky"],
+    "description": ""
+  },
+  "p-centered": {
+    "prefix": "spectre:p-centered",
+    "body": ["p-centered"],
+    "description": ""
+  },
+  "m-1": {
+    "prefix": "spectre:m-1",
+    "body": ["m-1"],
+    "description": ""
+  },
+  "m-2": {
+    "prefix": "spectre:m-2",
+    "body": ["m-2"],
+    "description": ""
+  },
+  "mt-1": {
+    "prefix": "spectre:mt-1",
+    "body": ["mt-1"],
+    "description": ""
+  },
+  "mt-2": {
+    "prefix": "spectre:mt-2",
+    "body": ["mt-2"],
+    "description": ""
+  },
+  "mx-1": {
+    "prefix": "spectre:mx-1",
+    "body": ["mx-1"],
+    "description": ""
+  },
+  "mx-2": {
+    "prefix": "spectre:mx-2",
+    "body": ["mx-2"],
+    "description": ""
+  },
+  "my-1": {
+    "prefix": "spectre:my-1",
+    "body": ["my-1"],
+    "description": ""
+  },
+  "my-2": {
+    "prefix": "spectre:my-2",
+    "body": ["my-2"],
+    "description": ""
+  },
+  "p-1": {
+    "prefix": "spectre:p-1",
+    "body": ["mx-1"],
+    "description": ""
+  },
+  "p-2": {
+    "prefix": "spectre:p-2",
+    "body": ["p-2"],
+    "description": ""
+  },
+  "pt-1": {
+    "prefix": "spectre:pt-1",
+    "body": ["pt-1"],
+    "description": ""
+  },
+  "pt-2": {
+    "prefix": "spectre:pt-2",
+    "body": ["pt-2"],
+    "description": ""
+  },
+  "px-1": {
+    "prefix": "spectre:px-1",
+    "body": ["px-1"],
+    "description": ""
+  },
+  "px-2": {
+    "prefix": "spectre:px-2",
+    "body": ["px-2"],
+    "description": ""
+  },
+  "py-1": {
+    "prefix": "spectre:py-1",
+    "body": ["py-1"],
+    "description": ""
+  },
+  "py-2": {
+    "prefix": "spectre:py-2",
+    "body": ["py-2"],
+    "description": ""
+  }
+}
