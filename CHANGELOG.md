@@ -6,12 +6,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.4] - 2020-09-20
+
+### Added
+
+- Compontents snippets json files
+
 ## [0.0.3] - 2020-09-20
 
 ### Changed
 
-- fixed "c-not-allowed" body
-- fixed "s-circle" body
+- Fixed "c-not-allowed" body
+- Fixed "s-circle" body
 
 ## [0.0.2] - 2020-09-20
 
@@ -26,8 +32,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Removed
 
-- removed btn-round
-- removed btn-loading
+- Removed btn-round
+- Removed btn-loading
 
 ## [0.0.1] - 2020-09-20
 

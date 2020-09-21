@@ -2,7 +2,7 @@
   "name": "spectre-css-snippets",
   "displayName": "Spectre.css snippets",
   "description": "Snippets for Spectre.css elements, layout, components and utilies",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -23,6 +23,78 @@
   ],
   "contributes": {
     "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/components/accordions.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/avatars.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/badges.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/bars.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/breadcrums.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/cards.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/emtpystate.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/menu.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/modals.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/nav.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/pagination.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/panels.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/popovers.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/steps.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/tabs.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/tiles.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/toasts.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components/tooltips.json"
+      },
       {
         "language": "html",
         "path": "./snippets/elements/buttons.json"
