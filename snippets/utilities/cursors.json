@@ -21,7 +21,7 @@
   },
   "c-not-allowed": {
     "prefix": "spectre:c-not-allowed",
-    "body": ["text-"],
+    "body": ["c-not-allowed"],
     "description": ""
   },
   "c-auto": {

@@ -6,7 +6,7 @@
   },
   "s-circle": {
     "prefix": "spectre:s-circle",
-    "body": ["s-rounded"],
+    "body": ["s-circle"],
     "description": ""
   }
 }
