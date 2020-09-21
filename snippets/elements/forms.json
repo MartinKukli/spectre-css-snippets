@@ -1,0 +1,163 @@
+{
+	"form-group": {
+		"prefix": "spectre:form-group",
+		"body": [
+			"form-group"
+		],
+		"description": ""
+	},
+	"form-label": {
+		"prefix": "spectre:form-label",
+		"body": [
+			"form-label"
+		],
+		"description": ""
+	},
+	"form-input": {
+		"prefix": "spectre:form-input",
+		"body": [
+			"form-input"
+		],
+		"description": ""
+	},
+	"form-select": {
+		"prefix": "spectre:form-select",
+		"body": [
+			"form-select"
+		],
+		"description": ""
+	},
+	"form-radio": {
+		"prefix": "spectre:form-radio",
+		"body": [
+			"form-radio"
+		],
+		"description": ""
+	},
+	"form-switch": {
+		"prefix": "spectre:form-switch",
+		"body": [
+			"form-switch"
+		],
+		"description": ""
+	},
+	"form-checkbox": {
+		"prefix": "spectre:form-checkbox",
+		"body": [
+			"form-checkbox"
+		],
+		"description": ""
+	},
+	"form-inline": {
+		"prefix": "spectre:form-inline",
+		"body": [
+			"form-inline"
+		],
+		"description": ""
+	},
+	"form-horizontal": {
+		"prefix": "spectre:form-horizontal",
+		"body": [
+			"form-horizontal"
+		],
+		"description": ""
+	},
+	"form-input-sm": {
+		"prefix": "spectre:form-input-sm",
+		"body": [
+			"input-sm"
+		],
+		"description": ""
+	},
+	"form-input-lg": {
+		"prefix": "spectre:form-input-lg",
+		"body": [
+			"input-lg"
+		],
+		"description": ""
+	},
+	"form-select-sm": {
+		"prefix": "spectre:form-select-sm",
+		"body": [
+			"select-sm"
+		],
+		"description": ""
+	},
+	"form-select-lg": {
+		"prefix": "spectre:form-select-lg",
+		"body": [
+			"select-lg"
+		],
+		"description": ""
+	},
+	"form-label-sm": {
+		"prefix": "spectre:form-label-sm",
+		"body": [
+			"label-sm"
+		],
+		"description": ""
+	},
+	"form-label-lg": {
+		"prefix": "spectre:form-label-lg",
+		"body": [
+			"label-lg"
+		],
+		"description": ""
+	},
+	"form-icon-left": {
+		"prefix": "spectre:form-icon-left",
+		"body": [
+			"has-icon-self"
+		],
+		"description": ""
+	},
+	"form-icon-right": {
+		"prefix": "spectre:form-icon-right",
+		"body": [
+			"has-icon-right"
+		],
+		"description": ""
+	},
+	"form-input-group": {
+		"prefix": "spectre:form-input-group",
+		"body": [
+			"input-group"
+		],
+		"description": ""
+	},
+	"form-input-group-addon": {
+		"prefix": "spectre:form-input-group-addon",
+		"body": [
+			"input-group-addon"
+		],
+		"description": ""
+	},
+	"form-is-success": {
+		"prefix": "spectre:form-is-success",
+		"body": [
+			"is-success"
+		],
+		"description": ""
+	},
+	"form-is-error": {
+		"prefix": "spectre:form-is-error",
+		"body": [
+			"is-error"
+		],
+		"description": ""
+	},
+	"form-has-success": {
+		"prefix": "spectre:form-has-success",
+		"body": [
+			"has-success"
+		],
+		"description": ""
+	},
+	"form-input-hint": {
+		"prefix": "spectre:form-input-hint",
+		"body": [
+			"form-input-hint"
+		],
+		"description": ""
+	}
+}

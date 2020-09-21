@@ -1,0 +1,30 @@
+{
+	"icon": {
+		"prefix": "spectre:icon",
+		"body": [
+			"icon"
+		],
+		"description": ""
+	},
+	"icon-2x": {
+		"prefix": "spectre:icon-2x",
+		"body": [
+			"icon-2x"
+		],
+		"description": ""
+	},
+	"icon-3x": {
+		"prefix": "spectre:icon-3x",
+		"body": [
+			"icon-3x"
+		],
+		"description": ""
+	},
+	"icon-4x": {
+		"prefix": "spectre:icon-4x",
+		"body": [
+			"icon-4x"
+		],
+		"description": ""
+	}
+}

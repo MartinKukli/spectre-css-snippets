@@ -1,0 +1,51 @@
+{
+	"label": {
+		"prefix": "spectre:label",
+		"body": [
+			"label"
+		],
+		"description": ""
+	},
+	"label-primary": {
+		"prefix": "spectre:label-primary",
+		"body": [
+			"label-primary"
+		],
+		"description": ""
+	},
+	"label-secondary": {
+		"prefix": "spectre:label-secondery",
+		"body": [
+			"label-secondery"
+		],
+		"description": ""
+	},
+	"label-success": {
+		"prefix": "spectre:label-success",
+		"body": [
+			"label-success"
+		],
+		"description": ""
+	},
+	"label-warning": {
+		"prefix": "spectre:label-warning",
+		"body": [
+			"label-warning"
+		],
+		"description": ""
+	},
+	"label-error": {
+		"prefix": "spectre:label-error",
+		"body": [
+			"label-error"
+		],
+		"description": ""
+	},
+	"label-rounded": {
+		"prefix": "spectre:label-rounded",
+		"body": [
+			"label-rounded"
+		],
+		"description": ""
+	}
+}

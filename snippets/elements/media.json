@@ -1,0 +1,58 @@
+{
+	"image": {
+		"prefix": "spectre:image",
+		"body": [
+			"image-responsive"
+		],
+		"description": ""
+	},
+	"image-fit-contain": {
+		"prefix": "spectre:image-contain",
+		"body": [
+			"img-fit-contain"
+		],
+		"description": ""
+	},
+	"image-fit-cover": {
+		"prefix": "spectre:image-cover",
+		"body": [
+			"img-fit-cover"
+		],
+		"description": ""
+	},
+	"figure": {
+		"prefix": "spectre:figure",
+		"body": [
+			"figure"
+		],
+		"description": ""
+	},
+	"figure-caption": {
+		"prefix": "spectre:figure-caption",
+		"body": [
+			"figure-caption"
+		],
+		"description": ""
+	},
+	"video": {
+		"prefix": "spectre:video",
+		"body": [
+			"video-responsive"
+		],
+		"description": ""
+	},
+	"video-4-3": {
+		"prefix": "spectre:video-4-3",
+		"body": [
+			"video-responsive-4-3"
+		],
+		"description": ""
+	},
+	"video-1-1": {
+		"prefix": "spectre:video-1-1",
+		"body": [
+			"video-responsive-1-1"
+		],
+		"description": ""
+	}
+}

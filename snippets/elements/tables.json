@@ -1,0 +1,30 @@
+{
+	"table": {
+		"prefix": "spectre:table",
+		"body": [
+			"table"
+		],
+		"description": ""
+	},
+	"table-stripe": {
+		"prefix": "spectre:table-striped",
+		"body": [
+			"table-striped"
+		],
+		"description": ""
+	},
+	"table-hover": {
+		"prefix": "spectre:table-hover",
+		"body": [
+			"table-hover"
+		],
+		"description": ""
+	},
+	"table-scroll": {
+		"prefix": "spectre:table-scroll",
+		"body": [
+			"table-scroll"
+		],
+		"description": ""
+	}
+}

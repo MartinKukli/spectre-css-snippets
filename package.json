@@ -1,0 +1,56 @@
+{
+  "name": "spectre-css-snippets",
+  "displayName": "Spectre.css snippets",
+  "description": "Snippets for Spectre.css elements, layout, components and utilies",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "publisher": "MartinKukli",
+  "author": {
+    "name": "Martin Kukli"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/MartinKukli/spectre-css-snippets",
+  "repository": "https://github.com/MartinKukli/spectre-css-snippets",
+  "issues": "https://github.com/MartinKukli/spectre-css-snippets/issues",
+  "keywords": [
+    "Spectre.css",
+    "Spectre"
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/elements/buttons.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/code.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/forms.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/icons.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/labels.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/media.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/elements/tables.json"
+      }
+    ]
+  }
+}
