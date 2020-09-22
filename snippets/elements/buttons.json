@@ -1,62 +1,86 @@
 {
-  "btn": {
-    "prefix": "spectre:btn",
-    "body": ["btn"],
-    "description": ""
-  },
-  "btn-primary": {
-    "prefix": "spectre:btn-primary",
-    "body": ["btn-primary"],
-    "description": ""
-  },
-  "btn-link": {
-    "prefix": "spectre:btn-link",
-    "body": ["btn-link"],
-    "description": ""
-  },
-  "btn-success": {
-    "prefix": "spectre:btn-success",
-    "body": ["btn-success"],
-    "description": ""
-  },
-  "btn-error": {
-    "prefix": "spectre:btn-error",
-    "body": ["btn-error"],
-    "description": ""
-  },
-  "btn-lg": {
-    "prefix": "spectre:btn-lg",
-    "body": ["btn-lg"],
-    "description": ""
-  },
-  "btn-sm": {
-    "prefix": "spectre:btn-sm",
-    "body": ["btn-sm"],
-    "description": ""
-  },
-  "btn-block": {
-    "prefix": "spectre:btn-block",
-    "body": ["btn-block"],
-    "description": ""
-  },
-  "btn-action": {
-    "prefix": "spectre:btn-action",
-    "body": ["btn-action"],
-    "description": ""
-  },
-  "btn-disabled": {
-    "prefix": "spectre:btn-disabled",
-    "body": ["disabled"],
-    "description": ""
-  },
-  "btn-group": {
-    "prefix": "spectre:btn-group",
-    "body": ["btn-group"],
-    "description": ""
-  },
-  "btn-group-block": {
-    "prefix": "spectre:btn-group-block",
-    "body": ["btn-group-block"],
-    "description": ""
-  }
+	"btn": {
+		"prefix": "spectre:btn",
+		"body": [
+			"btn"
+		],
+		"description": ""
+	},
+	"btn-primary": {
+		"prefix": "spectre:btn-primary",
+		"body": [
+			"btn-primary"
+		],
+		"description": ""
+	},
+	"btn-link": {
+		"prefix": "spectre:btn-link",
+		"body": [
+			"btn-link"
+		],
+		"description": ""
+	},
+	"btn-success": {
+		"prefix": "spectre:btn-success",
+		"body": [
+			"btn-success"
+		],
+		"description": ""
+	},
+	"btn-error": {
+		"prefix": "spectre:btn-error",
+		"body": [
+			"btn-error"
+		],
+		"description": ""
+	},
+	"btn-lg": {
+		"prefix": "spectre:btn-lg",
+		"body": [
+			"btn-lg"
+		],
+		"description": ""
+	},
+	"btn-sm": {
+		"prefix": "spectre:btn-sm",
+		"body": [
+			"btn-sm"
+		],
+		"description": ""
+	},
+	"btn-block": {
+		"prefix": "spectre:btn-block",
+		"body": [
+			"btn-block"
+		],
+		"description": ""
+	},
+	"btn-action": {
+		"prefix": "spectre:btn-action",
+		"body": [
+			"btn-action"
+		],
+		"description": ""
+	},
+	"btn-disabled": {
+		"prefix": "spectre:btn-disabled",
+		"body": [
+			"disabled"
+		],
+		"description": ""
+	},
+	"btn-group": {
+		"prefix": "spectre:btn-group",
+		"body": [
+			"btn-group"
+		],
+		"description": ""
+	},
+	"btn-group-block": {
+		"prefix": "spectre:btn-group-block",
+		"body": [
+			"btn-group-block"
+		],
+		"description": ""
+	}
 }

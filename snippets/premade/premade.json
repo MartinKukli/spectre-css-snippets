@@ -1,0 +1,72 @@
+{
+	"premade-container": {
+		"prefix": "container:spectre",
+		"body": [
+			"<div class=\"container\"><div class=\"columns\"><div class=\"column\"></div><div class=\"column\"></div><div class=\"column\"></div></div></div>"
+		],
+		"description": ""
+	},
+	"premade-hero": {
+		"prefix": "hero:spectre",
+		"body": [
+			"<div class=\"hero\"><div class=\"hero-body\"></div></div>"
+		],
+		"description": ""
+	},
+	"premade-navbar": {
+		"prefix": "navbar:spectre",
+		"body": [
+			"<header class=\"navbar\"><section class=\"navbar-section\"><a href=\"#\" class=\"btn btn-link\"></a></section><section class=\"navbar-center\"></section><section class=\"navbar-section\"><a href=\"#\" class=\"btn btn-link\"></a></section></header>"
+		],
+		"description": ""
+	},
+	"premade-accordion-checkbox": {
+		"prefix": "accordion-checkbox:spectre",
+		"body": [
+			"<div class=\"accordion\"><input type=\"checkbox\" id=\"accordion-1\" name=\"accordion-checkbox\" hidden><label class=\"accordion-header\" for=\"accordion-1\"></label><div class=\"accordion-body\"></div></div>"
+		],
+		"description": ""
+	},
+	"premade-accordion-radio": {
+		"prefix": "accordion-radio:spectre",
+		"body": [
+			"<div class=\"accordion\"><input type=\"radio\" id=\"accordion-1\" name=\"accordion-radio\" hidden><label class=\"accordion-header\" for=\"accordion-1\"></label><div class=\"accordion-body\"></div></div>"
+		],
+		"description": ""
+	},
+	"premade-avatar": {
+		"prefix": "avatar:spectre",
+		"body": [
+			"<figure class=\"avatar\"><img src=\"\" alt=\"\"></figure>"
+		],
+		"description": ""
+	},
+	"premade-badge": {
+		"prefix": "badge:spectre",
+		"body": [
+			"<span class=\"badge\"></span>"
+		],
+		"description": ""
+	},
+	"premade-badge-data": {
+		"prefix": "badge-data:spectre",
+		"body": [
+			"<span class=\"badge\" data-badge=\"\"></span>"
+		],
+		"description": ""
+	},
+	"premade-badge-btn": {
+		"prefix": "badge-btn:spectre",
+		"body": [
+			"<button class=\"btn badge\"></button>"
+		],
+		"description": ""
+	},
+	"premade-badge-avatar": {
+		"prefix": "badge-avatar:spectre",
+		"body": [
+			"<button class=\"btn badge\"></button>"
+		],
+		"description": ""
+	}
+}

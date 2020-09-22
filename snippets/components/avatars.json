@@ -1,52 +1,72 @@
 {
-  "avatar": {
-    "prefix": "spectre:avatar",
-    "body": ["avatar"],
-    "description": ""
-  },
-  "avatar-xl": {
-    "prefix": "spectre:avatar-xl",
-    "body": ["avatar-xl"],
-    "description": ""
-  },
-  "avatar-lg": {
-    "prefix": "spectre:avatar-lg",
-    "body": ["avatar-lg"],
-    "description": ""
-  },
-  "avatar-sm": {
-    "prefix": "spectre:avatar-sm",
-    "body": ["avatar-sm"],
-    "description": ""
-  },
-  "avatar-xs": {
-    "prefix": "spectre:avatar-xs",
-    "body": ["avatar-xs"],
-    "description": ""
-  },
-  "avatar-icon": {
-    "prefix": "spectre:avatar-icon",
-    "body": ["avatar-icon"],
-    "description": ""
-  },
-  "avatar-precence": {
-    "prefix": "spectre:avatar-precence-online",
-    "body": ["avatar-precence"],
-    "description": ""
-  },
-  "avatar-precence-online": {
-    "prefix": "spectre:avatar-precence-online",
-    "body": ["online"],
-    "description": ""
-  },
-  "avatar-precence-busy": {
-    "prefix": "spectre:avatar-precence-busy",
-    "body": ["busy"],
-    "description": ""
-  },
-  "avatar-precence-away": {
-    "prefix": "spectre:avatar-precence-away",
-    "body": ["away"],
-    "description": ""
-  }
+	"avatar": {
+		"prefix": "spectre:avatar",
+		"body": [
+			"avatar"
+		],
+		"description": ""
+	},
+	"avatar-xl": {
+		"prefix": "spectre:avatar-xl",
+		"body": [
+			"avatar-xl"
+		],
+		"description": ""
+	},
+	"avatar-lg": {
+		"prefix": "spectre:avatar-lg",
+		"body": [
+			"avatar-lg"
+		],
+		"description": ""
+	},
+	"avatar-sm": {
+		"prefix": "spectre:avatar-sm",
+		"body": [
+			"avatar-sm"
+		],
+		"description": ""
+	},
+	"avatar-xs": {
+		"prefix": "spectre:avatar-xs",
+		"body": [
+			"avatar-xs"
+		],
+		"description": ""
+	},
+	"avatar-icon": {
+		"prefix": "spectre:avatar-icon",
+		"body": [
+			"avatar-icon"
+		],
+		"description": ""
+	},
+	"avatar-precence": {
+		"prefix": "spectre:avatar-precence-online",
+		"body": [
+			"avatar-precence"
+		],
+		"description": ""
+	},
+	"avatar-precence-online": {
+		"prefix": "spectre:avatar-precence-online",
+		"body": [
+			"online"
+		],
+		"description": ""
+	},
+	"avatar-precence-busy": {
+		"prefix": "spectre:avatar-precence-busy",
+		"body": [
+			"busy"
+		],
+		"description": ""
+	},
+	"avatar-precence-away": {
+		"prefix": "spectre:avatar-precence-away",
+		"body": [
+			"away"
+		],
+		"description": ""
+	}
 }

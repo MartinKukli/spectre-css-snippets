@@ -1,82 +1,114 @@
 {
-  "text-primary": {
-    "prefix": "spectre:text-primary",
-    "body": ["text-primary"],
-    "description": ""
-  },
-  "text-secondary": {
-    "prefix": "spectre:text-secondary",
-    "body": ["text-secondary"],
-    "description": ""
-  },
-  "text-dark": {
-    "prefix": "spectre:text-dark",
-    "body": ["text-dark"],
-    "description": ""
-  },
-  "text-gray": {
-    "prefix": "spectre:text-gray",
-    "body": ["text-gray"],
-    "description": ""
-  },
-  "text-light": {
-    "prefix": "spectre:text-light",
-    "body": ["text-light"],
-    "description": ""
-  },
-  "text-success": {
-    "prefix": "spectre:text-success",
-    "body": ["text-success"],
-    "description": ""
-  },
-  "text-warning": {
-    "prefix": "spectre:text-warning",
-    "body": ["text-warning"],
-    "description": ""
-  },
-  "text-error": {
-    "prefix": "spectre:text-error",
-    "body": ["text-error"],
-    "description": ""
-  },
-  "bg-primary": {
-    "prefix": "spectre:bg-primary",
-    "body": ["bg-primary"],
-    "description": ""
-  },
-  "bg-secondary": {
-    "prefix": "spectre:bg-secondary",
-    "body": ["bg-secondary"],
-    "description": ""
-  },
-  "bg-dark": {
-    "prefix": "spectre:bg-dark",
-    "body": ["bg-dark"],
-    "description": ""
-  },
-  "bg-gray": {
-    "prefix": "spectre:bg-gray",
-    "body": ["bg-gray"],
-    "description": ""
-  },
-  "bg-light": {
-    "prefix": "spectre:bg-light",
-    "body": ["bg-light"],
-    "description": ""
-  },
-  "bg-success": {
-    "prefix": "spectre:bg-success",
-    "body": ["bg-success"],
-    "description": ""
-  },
-  "bg-warning": {
-    "prefix": "spectre:bg-warning",
-    "body": ["bg-warning"],
-    "description": ""
-  },
-  "bg-error": {
-    "prefix": "spectre:bg-error",
-    "body": ["bg-error"],
-    "description": ""
-  }
+	"text-primary": {
+		"prefix": "spectre:text-primary",
+		"body": [
+			"text-primary"
+		],
+		"description": ""
+	},
+	"text-secondary": {
+		"prefix": "spectre:text-secondary",
+		"body": [
+			"text-secondary"
+		],
+		"description": ""
+	},
+	"text-dark": {
+		"prefix": "spectre:text-dark",
+		"body": [
+			"text-dark"
+		],
+		"description": ""
+	},
+	"text-gray": {
+		"prefix": "spectre:text-gray",
+		"body": [
+			"text-gray"
+		],
+		"description": ""
+	},
+	"text-light": {
+		"prefix": "spectre:text-light",
+		"body": [
+			"text-light"
+		],
+		"description": ""
+	},
+	"text-success": {
+		"prefix": "spectre:text-success",
+		"body": [
+			"text-success"
+		],
+		"description": ""
+	},
+	"text-warning": {
+		"prefix": "spectre:text-warning",
+		"body": [
+			"text-warning"
+		],
+		"description": ""
+	},
+	"text-error": {
+		"prefix": "spectre:text-error",
+		"body": [
+			"text-error"
+		],
+		"description": ""
+	},
+	"bg-primary": {
+		"prefix": "spectre:bg-primary",
+		"body": [
+			"bg-primary"
+		],
+		"description": ""
+	},
+	"bg-secondary": {
+		"prefix": "spectre:bg-secondary",
+		"body": [
+			"bg-secondary"
+		],
+		"description": ""
+	},
+	"bg-dark": {
+		"prefix": "spectre:bg-dark",
+		"body": [
+			"bg-dark"
+		],
+		"description": ""
+	},
+	"bg-gray": {
+		"prefix": "spectre:bg-gray",
+		"body": [
+			"bg-gray"
+		],
+		"description": ""
+	},
+	"bg-light": {
+		"prefix": "spectre:bg-light",
+		"body": [
+			"bg-light"
+		],
+		"description": ""
+	},
+	"bg-success": {
+		"prefix": "spectre:bg-success",
+		"body": [
+			"bg-success"
+		],
+		"description": ""
+	},
+	"bg-warning": {
+		"prefix": "spectre:bg-warning",
+		"body": [
+			"bg-warning"
+		],
+		"description": ""
+	},
+	"bg-error": {
+		"prefix": "spectre:bg-error",
+		"body": [
+			"bg-error"
+		],
+		"description": ""
+	}
 }

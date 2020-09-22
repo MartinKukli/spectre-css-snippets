@@ -6,6 +6,23 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.5] - 2020-09-22
+
+### Added
+
+- Css link tags, local and cdn
+- Premade blocks: flexbox grid, navbar, accordions, avatars, badges
+
+### Changed
+
+- Updated README
+- Fixed errors in package.json
+- Lowered packages.json, engine, vscode to '^1.40.0' version
+
+### Fixed
+
+- cursors and empty state snippets paths
+
 ## [0.0.4] - 2020-09-20
 
 ### Added

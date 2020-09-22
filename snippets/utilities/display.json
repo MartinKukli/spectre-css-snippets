@@ -1,57 +1,79 @@
 {
-  "d-block": {
-    "prefix": "spectre:d-block",
-    "body": ["d-block"],
-    "description": ""
-  },
-  "d-inline": {
-    "prefix": "spectre:d-inline",
-    "body": ["d-inline"],
-    "description": ""
-  },
-  "d-inline-block": {
-    "prefix": "spectre:d-inline-block",
-    "body": ["d-inline-block"],
-    "description": ""
-  },
-  "d-flex": {
-    "prefix": "spectre:d-flex",
-    "body": ["d-flex"],
-    "description": ""
-  },
-  "d-inline-flex": {
-    "prefix": "spectre:d-inline-flex",
-    "body": ["d-inline-flex"],
-    "description": ""
-  },
-  "d-none": {
-    "prefix": "spectre:d-none",
-    "body": ["d-none"],
-    "description": ""
-  },
-  "d-hide": {
-    "prefix": "spectre:d-hide",
-    "body": ["d-hide"],
-    "description": ""
-  },
-  "d-visible": {
-    "prefix": "spectre:d-visible",
-    "body": ["d-visible"],
-    "description": ""
-  },
-  "d-invisible": {
-    "prefix": "spectre:d-invisible",
-    "body": ["d-invisible"],
-    "description": ""
-  },
-  "text-hide": {
-    "prefix": "spectre:text-hide",
-    "body": ["text-hide"],
-    "description": ""
-  },
-  "text-assistive": {
-    "prefix": "spectre:text-assistive",
-    "body": ["text-assistive"],
-    "description": ""
-  }
+	"d-block": {
+		"prefix": "spectre:d-block",
+		"body": [
+			"d-block"
+		],
+		"description": ""
+	},
+	"d-inline": {
+		"prefix": "spectre:d-inline",
+		"body": [
+			"d-inline"
+		],
+		"description": ""
+	},
+	"d-inline-block": {
+		"prefix": "spectre:d-inline-block",
+		"body": [
+			"d-inline-block"
+		],
+		"description": ""
+	},
+	"d-flex": {
+		"prefix": "spectre:d-flex",
+		"body": [
+			"d-flex"
+		],
+		"description": ""
+	},
+	"d-inline-flex": {
+		"prefix": "spectre:d-inline-flex",
+		"body": [
+			"d-inline-flex"
+		],
+		"description": ""
+	},
+	"d-none": {
+		"prefix": "spectre:d-none",
+		"body": [
+			"d-none"
+		],
+		"description": ""
+	},
+	"d-hide": {
+		"prefix": "spectre:d-hide",
+		"body": [
+			"d-hide"
+		],
+		"description": ""
+	},
+	"d-visible": {
+		"prefix": "spectre:d-visible",
+		"body": [
+			"d-visible"
+		],
+		"description": ""
+	},
+	"d-invisible": {
+		"prefix": "spectre:d-invisible",
+		"body": [
+			"d-invisible"
+		],
+		"description": ""
+	},
+	"text-hide": {
+		"prefix": "spectre:text-hide",
+		"body": [
+			"text-hide"
+		],
+		"description": ""
+	},
+	"text-assistive": {
+		"prefix": "spectre:text-assistive",
+		"body": [
+			"text-assistive"
+		],
+		"description": ""
+	}
 }

@@ -1,7 +1,9 @@
 {
-  "chip": {
-    "prefix": "spectre:chip",
-    "body": ["card"],
-    "description": ""
-  }
+	"chip": {
+		"prefix": "spectre:chip",
+		"body": [
+			"card"
+		],
+		"description": ""
+	}
 }

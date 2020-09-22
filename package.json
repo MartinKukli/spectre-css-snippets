@@ -1,176 +1,184 @@
 {
-  "name": "spectre-css-snippets",
-  "displayName": "Spectre.css snippets",
-  "description": "Snippets for Spectre.css elements, layout, components and utilies",
-  "version": "0.0.4",
-  "engines": {
-    "vscode": "^1.49.0"
-  },
-  "publisher": "MartinKukli",
-  "author": {
-    "name": "Martin Kukli"
-  },
-  "license": "MIT",
-  "homepage": "https://github.com/MartinKukli/spectre-css-snippets",
-  "repository": "https://github.com/MartinKukli/spectre-css-snippets",
-  "issues": "https://github.com/MartinKukli/spectre-css-snippets/issues",
-  "keywords": [
-    "Spectre.css",
-    "Spectre"
-  ],
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "html",
-        "path": "./snippets/components/accordions.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/avatars.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/badges.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/bars.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/breadcrums.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/cards.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/emtpystate.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/menu.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/modals.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/nav.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/pagination.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/panels.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/popovers.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/steps.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/tabs.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/tiles.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/toasts.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/components/tooltips.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/buttons.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/code.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/forms.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/icons.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/labels.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/media.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/elements/tables.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/layout/flexboxgrid.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/layout/hero.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/layout/navbar.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/layout/responsive.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/colors.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/cursor.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/display.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/divider.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/loading.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/position.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/shapes.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/utilities/text.json"
-      }
-    ]
-  }
+	"name": "spectre-css-snippets",
+	"displayName": "Spectre.css snippets",
+	"description": "Snippets for Spectre.css elements, layout, components and utilies",
+	"version": "0.0.5",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"publisher": "MartinKukli",
+	"author": {
+		"name": "Martin Kukli"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/MartinKukli/spectre-css-snippets",
+	"repository": "https://github.com/MartinKukli/spectre-css-snippets",
+	"issues": "https://github.com/MartinKukli/spectre-css-snippets/issues",
+	"keywords": [
+		"Spectre.css",
+		"Spectre"
+	],
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/csslinks/csslinks.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/premade/premade.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/accordions.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/avatars.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/badges.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/bars.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/breadcrums.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/cards.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/emptystate.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/menu.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/modals.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/nav.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/pagination.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/panels.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/popovers.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/steps.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/tabs.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/tiles.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/toasts.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/components/tooltips.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/buttons.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/code.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/forms.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/icons.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/labels.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/media.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/elements/tables.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/layout/flexboxgrid.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/layout/hero.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/layout/navbar.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/layout/responsive.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/colors.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/cursors.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/display.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/divider.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/loading.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/position.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/shapes.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/utilities/text.json"
+			}
+		]
+	}
 }

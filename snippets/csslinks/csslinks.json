@@ -1,0 +1,16 @@
+{
+	"local": {
+		"prefix": "spectre:css-local",
+		"body": [
+			"<link rel=\"stylesheet\" href=\"spectre.min.css\">\n<link rel=\"stylesheet\" href=\"spectre-exp.min.css\">\n<link rel=\"stylesheet\" href=\"spectre-icons.min.css\">"
+		],
+		"description": ""
+	},
+	"cdn": {
+		"prefix": "spectre:css-cdn",
+		"body": [
+			"<link rel=\"stylesheet\" href=\"https://unpkg.com/spectre.css/dist/spectre.min.css\">\n<link rel=\"stylesheet\" href=\"https://unpkg.com/spectre.css/dist/spectre-exp.min.css\">\n<link rel=\"stylesheet\" href=\"https://unpkg.com/spectre.css/dist/spectre-icons.min.css\">"
+		],
+		"description": ""
+	}
+}

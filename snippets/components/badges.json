@@ -1,7 +1,9 @@
 {
-  "badge": {
-    "prefix": "spectre:badge",
-    "body": ["badge"],
-    "description": ""
-  }
+	"badge": {
+		"prefix": "spectre:badge",
+		"body": [
+			"badge"
+		],
+		"description": ""
+	}
 }

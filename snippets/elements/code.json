@@ -1,7 +1,9 @@
 {
-  "code": {
-    "prefix": "spectre:code",
-    "body": ["code"],
-    "description": ""
-  }
+	"code": {
+		"prefix": "spectre:code",
+		"body": [
+			"code"
+		],
+		"description": ""
+	}
 }

@@ -1,12 +1,16 @@
 {
-  "loading": {
-    "prefix": "spectre:loading",
-    "body": ["loading"],
-    "description": ""
-  },
-  "loading-lg": {
-    "prefix": "spectre:loading lg",
-    "body": ["loading-lg"],
-    "description": ""
-  }
+	"loading": {
+		"prefix": "spectre:loading",
+		"body": [
+			"loading"
+		],
+		"description": ""
+	},
+	"loading-lg": {
+		"prefix": "spectre:loading lg",
+		"body": [
+			"loading-lg"
+		],
+		"description": ""
+	}
 }

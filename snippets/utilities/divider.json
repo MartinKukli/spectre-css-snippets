@@ -1,12 +1,16 @@
 {
-  "divider": {
-    "prefix": "spectre:divider",
-    "body": ["divider"],
-    "description": ""
-  },
-  "divider-vert": {
-    "prefix": "spectre:divider-vert",
-    "body": ["divider-vert"],
-    "description": ""
-  }
+	"divider": {
+		"prefix": "spectre:divider",
+		"body": [
+			"divider"
+		],
+		"description": ""
+	},
+	"divider-vert": {
+		"prefix": "spectre:divider-vert",
+		"body": [
+			"divider-vert"
+		],
+		"description": ""
+	}
 }
