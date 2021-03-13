@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.6] - 2021-03-13
+
+- Fixed errors in README
+
 ## [0.0.5] - 2020-09-22
 
 ### Added
