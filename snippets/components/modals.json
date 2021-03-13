@@ -1,1 +1,47 @@
-{}
+{
+  "modal": {
+    "prefix": "spectre:modal",
+    "body": ["modal"],
+    "description": ""
+  },
+  "modal-active": {
+    "prefix": "spectre:modal-active",
+    "body": ["modal active"],
+    "description": ""
+  },
+  "modal-overlay": {
+    "prefix": "spectre:modal-overlay",
+    "body": ["modal-overlay"],
+    "description": ""
+  },
+  "modal-container": {
+    "prefix": "spectre:modal-container",
+    "body": ["modal-container"],
+    "description": ""
+  },
+  "modal-content": {
+    "prefix": "spectre:modal-content",
+    "body": ["content"],
+    "description": ""
+  },
+  "modal-body": {
+    "prefix": "spectre:modal-body",
+    "body": ["modal-body"],
+    "description": ""
+  },
+  "modal-footer": {
+    "prefix": "spectre:modal-footer",
+    "body": ["modal-footer"],
+    "description": ""
+  },
+  "modal-sm": {
+    "prefix": "spectre:modal-sm",
+    "body": ["modal-sm"],
+    "description": ""
+  },
+  "modal-lg": {
+    "prefix": "spectre:modal-lg",
+    "body": ["modal-lg"],
+    "description": ""
+  }
+}

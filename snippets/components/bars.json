@@ -1,30 +1,32 @@
 {
-	"bar": {
-		"prefix": "spectre:bar",
-		"body": [
-			"bar"
-		],
-		"description": ""
-	},
-	"bar-sm": {
-		"prefix": "spectre:bar-sm",
-		"body": [
-			"bar-sm"
-		],
-		"description": ""
-	},
-	"bar-item": {
-		"prefix": "spectre:bar-item",
-		"body": [
-			"bar-item"
-		],
-		"description": ""
-	},
-	"bar-slider": {
-		"prefix": "spectre:bar-slider",
-		"body": [
-			"bar-slider"
-		],
-		"description": ""
-	}
+  "bar": {
+    "prefix": "spectre:bar",
+    "body": ["bar"],
+    "description": ""
+  },
+  "bar-sm": {
+    "prefix": "spectre:bar-sm",
+    "body": ["bar bar-sm"],
+    "description": ""
+  },
+  "bar-item": {
+    "prefix": "spectre:bar-item",
+    "body": ["bar-item"],
+    "description": ""
+  },
+  "bar-item-tooltip": {
+    "prefix": "spectre:bar-item-tooltip",
+    "body": ["bar-item tooltip"],
+    "description": ""
+  },
+  "bar-slider": {
+    "prefix": "spectre:bar-slider",
+    "body": ["bar bar-slider"],
+    "description": ""
+  },
+  "bar-slider-btn": {
+    "prefix": "spectre:bar-slider-btn",
+    "body": ["bar-slider-btn btn"],
+    "description": ""
+  }
 }

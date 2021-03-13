@@ -1,1 +1,17 @@
-{}
+{
+  "nav": {
+    "prefix": "spectre:nav",
+    "body": ["nav"],
+    "description": ""
+  },
+  "nav-item": {
+    "prefix": "spectre:nav-item",
+    "body": ["nav-item"],
+    "description": ""
+  },
+  "nav-item-active": {
+    "prefix": "spectre:nav-item-active",
+    "body": ["nav-item active"],
+    "description": ""
+  }
+}

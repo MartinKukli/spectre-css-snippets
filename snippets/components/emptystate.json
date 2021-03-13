@@ -1,37 +1,27 @@
 {
-	"empty": {
-		"prefix": "spectre:empty",
-		"body": [
-			"empty"
-		],
-		"description": ""
-	},
-	"empty-icon": {
-		"prefix": "spectre:empty-icon",
-		"body": [
-			"empty-icon"
-		],
-		"description": ""
-	},
-	"empty-title": {
-		"prefix": "spectre:empty-title",
-		"body": [
-			"empty-title"
-		],
-		"description": ""
-	},
-	"empty-subtitle": {
-		"prefix": "spectre:empty-subtitle",
-		"body": [
-			"empty-subtitle"
-		],
-		"description": ""
-	},
-	"empty-action": {
-		"prefix": "spectre:empty-action",
-		"body": [
-			"empty-action"
-		],
-		"description": ""
-	}
+  "empty": {
+    "prefix": "spectre:empty",
+    "body": ["empty"],
+    "description": ""
+  },
+  "empty-icon": {
+    "prefix": "spectre:empty-icon",
+    "body": ["empty-icon"],
+    "description": ""
+  },
+  "empty-title": {
+    "prefix": "spectre:empty-title",
+    "body": ["empty-title"],
+    "description": ""
+  },
+  "empty-subtitle": {
+    "prefix": "spectre:empty-subtitle",
+    "body": ["empty-subtitle"],
+    "description": ""
+  },
+  "empty-action": {
+    "prefix": "spectre:empty-action",
+    "body": ["empty-action"],
+    "description": ""
+  }
 }

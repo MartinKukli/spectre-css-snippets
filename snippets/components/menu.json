@@ -1,1 +1,32 @@
-{}
+{
+  "menu": {
+    "prefix": "spectre:menu",
+    "body": ["menu"],
+    "description": ""
+  },
+  "divider": {
+    "prefix": "spectre:menu-divider",
+    "body": ["divider"],
+    "description": ""
+  },
+  "menu-item": {
+    "prefix": "spectre:menu-item",
+    "body": ["menu-item"],
+    "description": ""
+  },
+  "menu-badge": {
+    "prefix": "spectre:menu-badge",
+    "body": ["menu-badge"],
+    "description": ""
+  },
+  "menu-dropdown": {
+    "prefix": "spectre:menu-dropdown",
+    "body": ["dropdown"],
+    "description": ""
+  },
+  "menu-dropdown-toggle": {
+    "prefix": "spectre:menu-dropdown-toggle",
+    "body": ["dropdown-toggle"],
+    "description": ""
+  }
+}
