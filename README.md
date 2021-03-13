@@ -56,4 +56,7 @@ Get premade blocks. Example: 'table:spectre'.
 
 ### 0.0.6
 
+- Added components: menu, modals, nav
+- Updated existsing components snippets
+- Fixed errors in snippets
 - Fixed errors in README
