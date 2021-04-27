@@ -1,1 +1,32 @@
-{}
+{
+  "panel": {
+    "body": ["panel"],
+    "description": "",
+    "prefix": "spectre:panel"
+  },
+  "panel-body": {
+    "body": ["panel-body"],
+    "description": "",
+    "prefix": "spectre:panel-body"
+  },
+  "panel-footer": {
+    "body": ["panel-footer"],
+    "description": "",
+    "prefix": "spectre:panel-footer"
+  },
+  "panel-header": {
+    "body": ["panel-header"],
+    "description": "",
+    "prefix": "spectre:panel-header"
+  },
+  "panel-nav": {
+    "body": ["panel-nav"],
+    "description": "",
+    "prefix": "spectre:panel-nav"
+  },
+  "panel-title": {
+    "body": ["panel-title"],
+    "description": "",
+    "prefix": "spectre:panel-title"
+  }
+}
