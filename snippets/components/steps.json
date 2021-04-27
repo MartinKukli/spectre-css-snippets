@@ -1,1 +1,12 @@
-{}
+{
+  "step": {
+    "body": ["step"],
+    "description": "",
+    "prefix": "spectre:step"
+  },
+  "step-item": {
+    "body": ["step-item"],
+    "description": "",
+    "prefix": "spectre:step-item"
+  }
+}
