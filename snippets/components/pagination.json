@@ -1,1 +1,32 @@
-{}
+{
+  "page-item": {
+    "body": ["page-item"],
+    "description": "",
+    "prefix": "spectre:page-item"
+  },
+  "page-item-subtitle": {
+    "body": ["page-item-subtitle"],
+    "description": "",
+    "prefix": "spectre:page-item-subtitle"
+  },
+  "page-item-title": {
+    "body": ["page-item-title"],
+    "description": "",
+    "prefix": "spectre:page-item-title"
+  },
+  "page-next": {
+    "body": ["page-next"],
+    "description": "",
+    "prefix": "spectre:page-next"
+  },
+  "page-prev": {
+    "body": ["page-prev"],
+    "description": "",
+    "prefix": "spectre:page-prev"
+  },
+  "pagination": {
+    "body": ["pagination"],
+    "description": "",
+    "prefix": "spectre:pagination"
+  }
+}
