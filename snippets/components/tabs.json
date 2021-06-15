@@ -1,1 +1,23 @@
-{}
+{
+  "tab": {
+    "body": [
+      "tab"
+    ],
+    "description": "",
+    "prefix": "spectre:tab"
+  },
+  "tab-block": {
+    "body": [
+      "tab-block"
+    ],
+    "description": "",
+    "prefix": "spectre:tab-block"
+  },
+  "tab-item": {
+    "body": [
+      "tab-item"
+    ],
+    "description": "",
+    "prefix": "spectre:tab-item"
+  }
+}
