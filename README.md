@@ -12,7 +12,7 @@ Get premade blocks. Example: 'table:spectre'.
 
 ## Currently supported
 
-- Components (Accordions to Empty State)
+- Components
 - Elements
 - Layout
 - Utilities
@@ -60,3 +60,7 @@ Get premade blocks. Example: 'table:spectre'.
 - Updated existsing components snippets
 - Fixed errors in snippets
 - Fixed errors in README
+
+### 1.0.0
+
+- Added rest components

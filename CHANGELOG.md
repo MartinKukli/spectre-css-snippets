@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.0] - 2021-06-15
+
+- Added rest components
+- Updated READ.ME
+
 ## [0.0.6] - 2021-03-13
 
 - Added components: menu, modals, nav
