@@ -1,1 +1,51 @@
-{}
+{
+	"tile": {
+		"body": [
+			"tile"
+		],
+		"description": "",
+		"prefix": "spectre:tile-icon"
+	},
+	"tile-icon": {
+		"body": [
+			"tile-icon"
+		],
+		"description": "",
+		"prefix": "spectre:tile-icon"
+	},
+	"tile-content": {
+		"body": [
+			"tile-content"
+		],
+		"description": "",
+		"prefix": "spectre:tile-content"
+	},
+	"tile-title": {
+		"body": [
+			"tile-title"
+		],
+		"description": "",
+		"prefix": "spectre:tile-title"
+	},
+	"tile-subtitle": {
+		"body": [
+			"tile-subtitle"
+		],
+		"description": "",
+		"prefix": "spectre:tile-subtitle"
+	},
+	"tile-action": {
+		"body": [
+			"tile-action"
+		],
+		"description": "",
+		"prefix": "spectre:tile-action"
+	},
+	"tile-centered": {
+		"body": [
+			"tile-centered"
+		],
+		"description": "",
+		"prefix": "spectre:tile-centered"
+	}
+}
