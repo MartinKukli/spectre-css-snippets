@@ -1,1 +1,30 @@
-{}
+{
+	"tooltip": {
+		"body": [
+			"tooltip"
+		],
+		"description": "",
+		"prefix": "spectre:tooltip"
+	},
+	"tooltip-right": {
+		"body": [
+			"tooltip-right"
+		],
+		"description": "",
+		"prefix": "spectre:tooltip-right"
+	},
+	"tooltip-left": {
+		"body": [
+			"tooltip-left"
+		],
+		"description": "",
+		"prefix": "spectre:tooltip-left"
+	},
+	"tooltip-bottom": {
+		"body": [
+			"tooltip-bottom"
+		],
+		"description": "",
+		"prefix": "spectre:tooltip-bottom"
+	}
+}

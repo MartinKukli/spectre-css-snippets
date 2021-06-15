@@ -1,1 +1,16 @@
-{}
+{
+	"toast": {
+		"body": [
+			"toast"
+		],
+		"description": "",
+		"prefix": "spectre:toast"
+	},
+	"toast-primary": {
+		"body": [
+			"toast-primary"
+		],
+		"description": "",
+		"prefix": "spectre:toast-primary"
+	}
+}

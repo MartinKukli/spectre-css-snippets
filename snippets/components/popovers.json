@@ -1,1 +1,32 @@
-{}
+{
+  "popover": {
+    "body": ["popover"],
+    "description": "",
+    "prefix": "spectre:popover"
+  },
+  "popover-bottom": {
+    "body": ["popover-bottom"],
+    "description": "",
+    "prefix": "spectre:popover-bottom"
+  },
+  "popover-container": {
+    "body": ["popover-container"],
+    "description": "",
+    "prefix": "spectre:popover-container"
+  },
+  "popover-left": {
+    "body": ["popover-left"],
+    "description": "",
+    "prefix": "spectre:popover-left"
+  },
+  "popover-right": {
+    "body": ["popover-right"],
+    "description": "",
+    "prefix": "spectre:popover-right"
+  },
+  "popover-top": {
+    "body": ["popover-top"],
+    "description": "",
+    "prefix": "spectre:popover-top"
+  }
+}
