@@ -10,19 +10,6 @@ Get list of Spectre.css classes by typing 'spectre:'.
 
 Get premade blocks. Example: 'table:spectre'.
 
-## Currently supported
-
-- Components
-- Elements
-- Layout
-- Utilities
-- Premade blocks
-  - flexbox grid
-  - navbar
-  - accordions
-  - avatars
-  - badges
-
 ## Planned features
 
 - Snippets for and Experimental
